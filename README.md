@@ -29,6 +29,6 @@ It follows a streamlined approach - from writing the project files to deploying 
 
 ## Result
 Access it in a browser.
+<img width="880" height="438" alt="image" src="https://github.com/user-attachments/assets/83391029-8068-42ac-9976-3b823a4a061c" />
 
-<img width="1433" height="701" alt="image" src="https://github.com/user-attachments/assets/794bab72-e8ad-453d-a426-ebbfa37bd30c" />
 
